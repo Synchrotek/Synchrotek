@@ -20,24 +20,24 @@
 <td><h3 align="left">Connect with me:</h3></td>
 <td>
     <a href="https://app.daily.dev/PuL5Tar" target="blank">
-        <img align="center" src="./Imgs/daily-dev.png"alt="pul5tar" height="30" width="33" /></a>
+        <img align="center" src="https://user-images.githubusercontent.com/77431114/208964684-a0a611c7-c0d8-4a84-929f-1e489d5b3a1f.png" alt="daily-dev" height="30" width="30" /></a>
     <a href="https://stackoverflow.com/users/16443462/pul5tar" target="blank">
-        <img align="center" src="./Imgs/stackoverflow.png" alt="pul5tar" height="30" width="40" /></a>
+        <img align="center" src="https://user-images.githubusercontent.com/77431114/208966688-69c49fa6-6db2-46cf-980c-f6af3af0ae15.png" alt="Stackoverflow" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/satyajit-nayak-42b8a01a1" target="blank">
-        <img align="center" src="./Imgs/linkedIn.png" alt="satyajit nayak" height="30" width="30" /></a>
+        <img align="center" src="https://user-images.githubusercontent.com/77431114/208966476-80404db4-fb2f-41fa-a875-5a89d340cfb3.png" alt="LinkedIn" height="30" width="30" /></a>
 </td>
 </tr></table>
 
 <table><tr>
 <td>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="./Imgs/cpp-logo.png" alt="cplusplus" width="40" height="40" /></a>
+    <img src="https://user-images.githubusercontent.com/77431114/208966929-0a119923-ed46-44c5-8861-54b8e998db9e.png" alt="cplusplus" width="40" height="40" /></a>
 </td>
 <td>
 <a href="https://www.python.org/" alt="python" width="40" height="40">
-    <img src="./Imgs/python-logo.png" alt="nodejs" width="40" height="40" /> </a>
+    <img src="https://user-images.githubusercontent.com/77431114/208967042-538c3c39-b150-4e03-9e51-d1b2a0b6207d.png" alt="nodejs" width="40" height="40" /> </a>
 </td>
-<td><h3 align="left">Languages I most use:</h3></td>
+<td><h3 align="left">: Languages that I most use</h3></td>
 </tr></table>
 
 <p><img align="left"
