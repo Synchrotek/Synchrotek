@@ -8,12 +8,12 @@
 
 - 🌱 I’m currently learning **javascript, MERN stack**
 
-- 👨‍💻 All my projects are available at
+- 👨‍💻 All my projects are available at - 
 [https://github.com/PuL5TaR?tab=repositories](https://github.com/PuL5TaR?tab=repositories)
 
-<!-- - 📫 Reach me at **satyajitnayak348@gmail.com** -->
+<!-- - 📫 Reach me at **- myemail@email.com** -->
 
-- ⚡ Fun fact **Games are biggest motivation of some coders like me**
+- ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**
 
 <br>
 <table><tr>
