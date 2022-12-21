@@ -37,7 +37,7 @@
 <a href="https://www.python.org/" alt="python" width="40" height="40">
     <img src="https://user-images.githubusercontent.com/77431114/208967042-538c3c39-b150-4e03-9e51-d1b2a0b6207d.png" alt="nodejs" width="40" height="40" /> </a>
 </td>
-<td><h3 align="left">: Languages that I most use</h3></td>
+<td><h3 align="left">: Languages that I use</h3></td>
 </tr></table>
 
 <p><img align="left"
