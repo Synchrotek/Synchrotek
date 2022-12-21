@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="/PuL5TaR/Language-svgs/cpp.svg" alt="cplusplus" width="40" height="40" /></a>
+        <img src="https://raw.githubusercontent.com/PuL5TaR/PuL5TaR/master/Language-svgs/cpp.svg" alt="cplusplus" width="40" height="40" /></a>
     <a href="/Language-svgs/python-5.svg" alt="python" width="40" height="40">
         <img src="/Language-svgs/python-5.svg" alt="nodejs" width="40" height="40" /> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
