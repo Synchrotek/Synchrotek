@@ -20,7 +20,7 @@
 - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**
 
 <br>
-<table border="0px"><tr>
+<table><tr>
 <td><h3 align="left">Connect with me:</h3></td>
 <td>
     <a href="https://app.daily.dev/PuL5Tar" target="blank">
@@ -32,20 +32,15 @@
 </td>
 </tr></table>
 
-<table border="0px"><tr>
+<table><tr>
+<td><h3 align="left">Languages that I prefer: </h3></td>    
 <td>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/77431114/209035553-878c6780-bd9b-4f51-99de-6d1e615cce12.png" alt="cplusplus" width="40" height="40" /></a>
-</td>
-<td>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/77431114/208966929-0a119923-ed46-44c5-8861-54b8e998db9e.png" alt="cplusplus" width="40" height="40" /></a>
-</td>
-<td>
-<a href="https://www.python.org/" alt="python" width="40" height="40">
-    <img src="https://user-images.githubusercontent.com/77431114/208967042-538c3c39-b150-4e03-9e51-d1b2a0b6207d.png" alt="nodejs" width="40" height="40" /> </a>
-</td>
-<td><h3 align="left">: Languages that I prefer</h3></td>
+    <img align="center" src="https://user-images.githubusercontent.com/77431114/209035553-878c6780-bd9b-4f51-99de-6d1e615cce12.png" alt="cplusplus" width="30"="30" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><span></span><span></span>
+    <img align="center" src="https://user-images.githubusercontent.com/77431114/208966929-0a119923-ed46-44c5-8861-54b8e998db9e.png" alt="cplusplus" width="30" height="30" /></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" alt="python" width="40" height="40"><span></span><span></span>
+    <img align="center" src="https://user-images.githubusercontent.com/77431114/208967042-538c3c39-b150-4e03-9e51-d1b2a0b6207d.png" alt="nodejs" width="30" height="30" /> </a></td>
 </tr></table>
 
 <!-- <div align="center">
