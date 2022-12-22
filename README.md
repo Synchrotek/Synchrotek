@@ -53,19 +53,8 @@
                 alt="Satyajit's Dev Card" /></a>
 </div> -->
 
+![some](https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact)
 <br>
-<div>
-<table>
-    <tr valign="left"><td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact"
-            alt="pul5tar" />
-    </td></tr>
-    <tr valign="left"><td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en" alt="pul5tar" />
-    </td></tr>
-    <tr valign="left"><td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&"
-            alt="pul5tar" />
-    </td></tr>
-</table>
-</div>
+![PuL5TaR](https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en)
+<br>
+![pul5tar](https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&)
