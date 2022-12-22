@@ -48,10 +48,10 @@
 <td><h3 align="left">: Languages that I prefer</h3></td>
 </tr></table>
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://app.daily.dev/PuL5Tar"><img align="right" src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=y7q" width="400"
                 alt="Satyajit's Dev Card" /></a>
-</div>
+</div> -->
 
 <br>
 <div>
