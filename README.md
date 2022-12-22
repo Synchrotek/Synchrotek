@@ -20,7 +20,7 @@
 - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**
 
 <br>
-<table><tr>
+<table border="0px"><tr>
 <td><h3 align="left">Connect with me:</h3></td>
 <td>
     <a href="https://app.daily.dev/PuL5Tar" target="blank">
@@ -32,7 +32,7 @@
 </td>
 </tr></table>
 
-<table><tr>
+<table border="0px"><tr>
 <td>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/77431114/209035553-878c6780-bd9b-4f51-99de-6d1e615cce12.png" alt="cplusplus" width="40" height="40" /></a>
@@ -48,11 +48,24 @@
 <td><h3 align="left">: Languages that I prefer</h3></td>
 </tr></table>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact"
-        alt="pul5tar" /></p>
+<div align="center">
+<a href="https://app.daily.dev/PuL5Tar"><img align="right" src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=y7q" width="400"
+                alt="Satyajit's Dev Card" /></a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en"
-        alt="pul5tar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&" alt="pul5tar" /></p>
+<br>
+<div>
+<table border="0px">
+    <tr valign="left"><td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact"
+            alt="pul5tar" />
+    </td></tr>
+    <tr valign="left"><td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en" alt="pul5tar" />
+    </td></tr>
+    <tr valign="left"><td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&"
+            alt="pul5tar" />
+    </td></tr>
+</table>
+</div>
