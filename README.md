@@ -43,10 +43,9 @@
     <img align="center" src="https://user-images.githubusercontent.com/77431114/208967042-538c3c39-b150-4e03-9e51-d1b2a0b6207d.png" alt="nodejs" width="30" height="30" /> </a></td>
 </tr></table>
 
-<!-- <div align="center">
-<a href="https://app.daily.dev/PuL5Tar"><img align="right" src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=y7q" width="300"
-                alt="Satyajit's Dev Card" /></a>
-</div> -->
+<div align="center">
+<a href="https://app.daily.dev/PuL5Tar"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=hjw" width="300" alt="Satyajit Nayak's Dev Card"/></a>
+</div>
 
 ![some](https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact)
 <br>
