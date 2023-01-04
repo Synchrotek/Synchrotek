@@ -32,7 +32,7 @@
 </p>
 
 <p>
-<span><big><strong>Languages that I prefer: &nbsp;</strong></big></span>
+<span><big><strong>Languages that I prefer &nbsp;: &nbsp;</strong></big></span>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img align="center" src="https://user-images.githubusercontent.com/77431114/209035553-878c6780-bd9b-4f51-99de-6d1e615cce12.png" alt="cplusplus" width="30"="30" /></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><span></span><span></span>
