@@ -41,19 +41,16 @@
     <img align="center" src="https://user-images.githubusercontent.com/77431114/208967042-538c3c39-b150-4e03-9e51-d1b2a0b6207d.png" alt="nodejs" width="30" height="30" /> </a>&nbsp;&nbsp;
 </p>
 
-<br>
-
-![some](https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact)
-<br>
-![PuL5TaR](https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en)
-<br>
-![pul5tar](https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&)
+<details close> 
+  <summary><h2>Github Stats</h2></summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact" alt="Satyajit Nayak's Dev Card"/>
+        <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en" alt="Satyajit Nayak's Dev Card"/>
+        <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&" alt="Satyajit Nayak's Dev Card"/>
+</details>
 
 <details close> 
-  <summary><h2>Dev card (click)</h2></summary>
-  <table>
-    <tr>
+  <summary><h2>Dev card</h2></summary>
     <a href="https://app.daily.dev/PuL5Tar"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=hjw" width="300" alt="Satyajit          Nayak's Dev Card"/></a>
-    </tr>
-  </table>
 </details>
