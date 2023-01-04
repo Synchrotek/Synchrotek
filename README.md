@@ -50,7 +50,7 @@
 ![pul5tar](https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&)
 
 <details close> 
-  <summary><h2>Dev card</h2></summary>
+  <summary><h2>Dev card (click)</h2></summary>
   <table>
     <tr>
     <a href="https://app.daily.dev/PuL5Tar"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=hjw" width="300" alt="Satyajit          Nayak's Dev Card"/></a>
