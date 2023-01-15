@@ -43,11 +43,11 @@
 
 <details close> 
   <summary><h2>Github Stats</h2></summary>
-    <img src="https://github-readme-stats-kwr1-pul5tar.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact" alt="Most used Languages"/>
+    <img src="https://github-readme-stats-kwr1-pul5tar.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Most used Languages"/>
         <br>
-    <img src="https://github-readme-stats-kwr1-pul5tar.vercel.app/api?username=pul5tar&show_icons=true&locale=en" alt="Github stats"/>
+    <img src="https://github-readme-stats-kwr1-pul5tar.vercel.app/api?username=pul5tar&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
         <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&" alt="Current & Total Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&theme=highcontrast" alt="Current & Total Streak"/>
 </details>
 
 <details close> 
