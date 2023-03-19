@@ -8,7 +8,7 @@
     
 <img width="350" align="right" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
     
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pul5tar&label=Profile%20views&color=0e75b6&style=flat" alt="pul5tar" /> </p>-->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pul5tar&label=Profile%20views&color=0e75b6&style=flat" alt="pul5tar" /> </p> -->
 
 - 🌱 I’m currently learning **MERN stack, computer vision**&nbsp;
 
@@ -43,10 +43,10 @@
 
 <details close> 
   <summary><h2>Github Stats</h2></summary>
-    <img src="https://github-readme-stats-kwr1-pul5tar.vercel.app/api/top-langs?username=pul5tar&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Most used Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&theme=transparent&layout=compact" alt="Most used Languages"/>
         <br>
-    <img src="https://github-readme-stats-kwr1-pul5tar.vercel.app/api?username=pul5tar&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
-        <br>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
+        <br> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&theme=merko" alt="Current & Total Streak"/>
 </details>
 
