@@ -42,7 +42,7 @@
 </p>
 
 <details close> 
-  <summary><h2>Github Stats</h2></summary>
+  <summary><h2>Git Stats</h2></summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&theme=transparent&layout=compact" alt="Most used Languages"/>
         <br>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
