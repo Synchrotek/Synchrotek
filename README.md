@@ -48,9 +48,7 @@
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
         <br> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&theme=merko" alt="Current & Total Streak"/>
+    <br><br>
+    <a href="https://app.daily.dev/PuL5Tar"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=hjw" width="200" alt="Satyajit Nayak's Dev Card"/></a>
 </details>
 
-<details close> 
-  <summary><h2>Dev card</h2></summary>
-    <a href="https://app.daily.dev/PuL5Tar"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=hjw" width="300" alt="Satyajit Nayak's Dev Card"/></a>
-</details>
