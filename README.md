@@ -40,7 +40,7 @@
 <a href="https://www.python.org/" alt="python" width="40" height="40"><span></span><span></span>
     <img align="center" src="https://user-images.githubusercontent.com/77431114/208967042-538c3c39-b150-4e03-9e51-d1b2a0b6207d.png" alt="nodejs" width="30" height="30" /> </a>&nbsp;&nbsp;
 </p>
- 
+
 <details close> 
   <summary><h2>Git Stats</h2></summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&theme=transparent&layout=compact" alt="Most used Languages"/>
