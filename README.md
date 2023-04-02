@@ -21,7 +21,6 @@
 </div>
 
 <br>
-
 <p>
 <span><big><strong>Connect with me &nbsp;: &nbsp;</strong></big></span>
 <a href="https://app.daily.dev/PuL5Tar" target="blank">
