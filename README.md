@@ -15,7 +15,7 @@
 - 👨‍💻 All my projects are available 
 [here](https://github.com/PuL5TaR?tab=repositories)&nbsp;
 
-<!-- - 📫 Reach me at **- myemail@email.com** -->
+<!-- - 📫 Reach me at **- myemail@email.com**  -->
 
 - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**&nbsp;
 </div>
