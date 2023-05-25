@@ -10,7 +10,7 @@
     
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pul5tar&label=Profile%20views&color=0e75b6&style=flat" alt="pul5tar" /> </p> -->
 
-- 🌱 I’m currently learning **MERN stack**&nbsp; 
+- 🌱 I’m currently learning **MERN stack & Django**&nbsp; 
 
 - 👨‍💻 All my projects are available 
 [here](https://github.com/PuL5TaR?tab=repositories)&nbsp;
