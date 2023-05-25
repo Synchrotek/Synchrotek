@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyajit</h1>
-<h2 align="center">Welcome to My Profile</h2>
+<h2 align="center">Welcome to My Profile</h2> 
 
 <!-- <img align="center" alt="coding" width="100%" height="150px" src="https://user-images.githubusercontent.com/77431114/209073545-401545cf-ff6a-4eb0-9127-d0b77ac5d402.png">
 <br>
