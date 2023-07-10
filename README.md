@@ -4,12 +4,12 @@
 <!-- <img align="center" alt="coding" width="100%" height="150px" src="https://user-images.githubusercontent.com/77431114/209073545-401545cf-ff6a-4eb0-9127-d0b77ac5d402.png">
 <br>
 -->
-    
+
+
+<div align="left">
 <img width="350" align="right" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
     
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pul5tar&label=Profile%20views&color=0e75b6&style=flat" alt="pul5tar" /> </p> -->
-
-<div align="left">
     
 - 🌱 I’m currently learning **MERN stack & Django**&nbsp; 
 
