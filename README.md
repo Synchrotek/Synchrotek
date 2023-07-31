@@ -5,23 +5,25 @@
 <br>
 -->
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pul5tar&label=Profile%20views&color=0e75b6&style=flat" alt="pul5tar" /> </p>  -->
 
-<div align="left">
-<img width="350" align="right" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
-    
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pul5tar&label=Profile%20views&color=0e75b6&style=flat" alt="pul5tar" /> </p> -->
-    
-- 🌱 I’m currently learning **Computer vision & web dev**&nbsp; 
 
-- 👨‍💻 All my projects are available 
-[here](https://github.com/PuL5TaR?tab=repositories)&nbsp;
+<table>
+<tr>
+    <td>
+    <ul>
+        <br>
+        <li> 🌱 I’m currently learning  <strong>Computer vision & web dev</strong></li>
+        <li> 👨‍💻 All my projects are available <a href="https://github.com/PuL5TaR?tab=repositories">here</a></li>
+        <li>⚡ Fun fact <strong>- Like me Games are biggest motivation of many programmers</strong></li>
+    </ul>
+    </td>
+</tr>
+    <img width="350" align="center" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
 
-<!-- - 📫 Reach me at **- myemail@email.com**  -->
 
-- ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**&nbsp;
-</div>
 
-<br>
+</table>
 
 <!--
 <p>
