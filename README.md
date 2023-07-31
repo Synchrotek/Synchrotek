@@ -22,6 +22,8 @@
 </div>
 
 <br>
+
+<!--
 <p>
 <span><big><strong>Connect with me &nbsp;: &nbsp;</strong></big></span>
 <a href="https://www.linkedin.com/in/satyajit-nayak-42b8a01a1" target="blank">
@@ -32,7 +34,9 @@
     <img align="center" src="https://user-images.githubusercontent.com/77431114/208966688-69c49fa6-6db2-46cf-980c-f6af3af0ae15.png" alt="Stackoverflow" height="30" width="30" /></a>
 </p>
 
-<p>
+-->
+
+<p align="center">
 <span><big><strong>Languages that I prefer &nbsp;: &nbsp;</strong></big></span>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img align="center" src="https://user-images.githubusercontent.com/77431114/209035553-878c6780-bd9b-4f51-99de-6d1e615cce12.png" alt="cplusplus" width="20" height="20" /></a>&nbsp;&nbsp;
