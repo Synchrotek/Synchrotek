@@ -26,8 +26,8 @@
 <span><big><strong>Connect with me &nbsp;: &nbsp;</strong></big></span>
 <a href="https://www.linkedin.com/in/satyajit-nayak-42b8a01a1" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/77431114/208966476-80404db4-fb2f-41fa-a875-5a89d340cfb3.png" alt="LinkedIn" height="27 width="27" /></a>&nbsp
-<a href="https://www.instagram.com/5n.cde" target="blank">
-    <img align="center" src="https://github.com/PuL5TaR/ultrasonic-glasses-iot/assets/77431114/1c0b4df5-294d-4c1b-ab54-b1f904f0615b" height="30" width="30" /></a>
+<a href="https://www.instagram.com/5n.cde">
+    <img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" height="28" width="28" /></a>
 <a href="https://stackoverflow.com/users/16443462/pul5tar" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/77431114/208966688-69c49fa6-6db2-46cf-980c-f6af3af0ae15.png" alt="Stackoverflow" height="30" width="30" /></a>
 </p>
