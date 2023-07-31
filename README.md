@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyajit</h1>
 <h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
-<br>
+<br> 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <br>
