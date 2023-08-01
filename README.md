@@ -10,8 +10,10 @@
 <!------------------------------------------------------------------------------------------->
     
 <!-- Coding time stats on the right -->
-## If U can dream it, U can Code it ✌
-### This week I did : 
+### If U can dream it, U can Code it ✌
+
+<br><span>
+<i><strong>This week I did :</strong></i>
 
 <!--START_SECTION:waka-->
 
@@ -23,7 +25,8 @@ JavaScript   53 mins         ████████░░░░░░░░░
 <!--END_SECTION:waka-->  
 
 </div><hr>
-
+</span>
+    
 #### - 🌱 I’m currently learning **Computer Vision, Web dev**.
   
 #### - 👨‍💻 All my projects are available [Here](https://github.com/PuL5TaR?tab=repositories).
