@@ -13,13 +13,13 @@
 <img width="300" align="left" align="" alt="Coding" src="https://github.com/PuL5TaR/music_visualizer32/assets/77431114/81ee1b50-8712-4d73-aa0c-63beccc6bd55">
     
 <!-- Coding time stats on the right -->
-    
+## If U can dream it, U can Code it ✌
 ### This week I did : 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   53 mins         ████████░░░░░░░░░░░░░░░░░   29.34 %
 Markdown     1 hr 32 mins    █████████████████░░░░░░░░   70.66 %
+JavaScript   53 mins         ████████░░░░░░░░░░░░░░░░░   29.34 %
 ```
 
 <!--END_SECTION:waka-->  
