@@ -24,11 +24,11 @@ JavaScript   53 mins         ████████░░░░░░░░░
 
 </div><hr><br>
 
-#### - 🌱 I’m currently learning **Computer Vision, Web dev**
+#### - 🌱 I’m currently learning **Computer Vision, Web dev**.
   
-#### - 👨‍💻 All my projects are available [Here](https://github.com/PuL5TaR?tab=repositories)
+#### - 👨‍💻 All my projects are available [Here](https://github.com/PuL5TaR?tab=repositories).
 <!-- #### - 📫 Reach me at **- myemail@email.com** -->
-#### - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**
+#### - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
 
 <!------------------------------------------------------------------------------------------->
 
