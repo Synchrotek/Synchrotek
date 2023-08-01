@@ -16,7 +16,7 @@
     
 ### This week I did : 
 <!--START_SECTION:waka-->
-    
+
 ```txt
 Markdown     16 mins         ████████████████████████▓   98.14 %
 JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
