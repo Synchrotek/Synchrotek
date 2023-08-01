@@ -8,12 +8,10 @@
 <img width="300" align="left" align="" alt="Coding" src="https://github.com/PuL5TaR/music_visualizer32/assets/77431114/81ee1b50-8712-4d73-aa0c-63beccc6bd55">
 
 <!------------------------------------------------------------------------------------------->
+## If U can dream it, U can Code it ✌
     
 <!-- Coding time stats on the right -->
-## If U can dream it, U can Code it ✌
-
-<span>
-<i><strong>This week I did :</strong></i>
+### This week I did : 
 
 <!--START_SECTION:waka-->
 
