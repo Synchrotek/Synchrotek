@@ -1,16 +1,13 @@
 <h1 align="left">Hi 👋, I'm Satyajit</h1>
 <!-- <h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
-<br><br> -->
 
-<!-- <img align="center" alt="coding" width="100%" height="150px" src="https://user-images.githubusercontent.com/77431114/209073545-401545cf-ff6a-4eb0-9127-d0b77ac5d402.png">
-<br>
--->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pul5tar&label=Profile%20views&color=0e75b6&style=flat" alt="pul5tar" /> </p>  -->
+<!------------------------------------------------------------------------------------------->
 
 <div>
 <!-- Image on the left -->
 <img width="300" align="left" align="" alt="Coding" src="https://github.com/PuL5TaR/music_visualizer32/assets/77431114/81ee1b50-8712-4d73-aa0c-63beccc6bd55">
+
+<!------------------------------------------------------------------------------------------->
     
 <!-- Coding time stats on the right -->
 ## If U can dream it, U can Code it ✌
@@ -27,36 +24,13 @@ JavaScript   53 mins         ████████░░░░░░░░░
 
 </div><hr><br>
 
-- 🌱 I’m currently learning **Computer Vision, Web dev**
+#### - 🌱 I’m currently learning **Computer Vision, Web dev**
   
-- 👨‍💻 All my projects are available [Here](https://github.com/PuL5TaR?tab=repositories)
-<!-- - 📫 Reach me at **- myemail@email.com** -->
-- ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**
+#### - 👨‍💻 All my projects are available [Here](https://github.com/PuL5TaR?tab=repositories)
+<!-- #### - 📫 Reach me at **- myemail@email.com** -->
+#### - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**
 
-<!--
-</p>
-<br><br>
-<table>
-<tr><td><ul><br>
-    <li> 🌱 I’m currently learning  <strong>Computer vision & web dev</strong></li>
-    <li> 👨‍💻 All my projects are available <a href="https://github.com/PuL5TaR?tab=repositories">here</a></li>
-    <li>⚡ Fun fact <strong>- Like me Games are biggest motivation of many programmers</strong></li>
-<br></ul></td></tr>
-</table>
--->
-
-<!--
-<p>
-<span><big><strong>Connect with me &nbsp;: &nbsp;</strong></big></span>
-<a href="https://www.linkedin.com/in/satyajit-nayak-42b8a01a1" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/77431114/208966476-80404db4-fb2f-41fa-a875-5a89d340cfb3.png" alt="LinkedIn" height="27 width="27" /></a>&nbsp
-<a href="https://www.instagram.com/5n.cde">
-    <img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" height="28" width="28" /></a>
-<a href="https://stackoverflow.com/users/16443462/pul5tar" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/77431114/208966688-69c49fa6-6db2-46cf-980c-f6af3af0ae15.png" alt="Stackoverflow" height="30" width="30" /></a>
-</p>
-
--->
+<!------------------------------------------------------------------------------------------->
 
 <br>
 <p align="left">
@@ -68,6 +42,8 @@ JavaScript   53 mins         ████████░░░░░░░░░
 <a href="https://www.python.org/" alt="python" width="40" height="40"><span></span><span></span>
     <img align="center" src="https://user-images.githubusercontent.com/77431114/208967042-538c3c39-b150-4e03-9e51-d1b2a0b6207d.png" alt="nodejs" width="22" height="22" /> </a>&nbsp;&nbsp;
 </p>
+
+<!------------------------------------------------------------------------------------------->
 
 <details close> 
   <summary><h2>Git Stats</h2></summary>
