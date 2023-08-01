@@ -14,7 +14,7 @@
     
 <!-- Coding time stats on the right -->
     
-## This week I spent time in : 
+### This week I did : 
 <!--START_SECTION:waka-->
     
 ```txt
