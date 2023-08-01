@@ -27,7 +27,7 @@ JavaScript   53 mins         ████████░░░░░░░░░
 
 </div><hr><br>
 
-- 🌱 I’m currently learning **javascript, MERN stack**
+- 🌱 I’m currently learning **Computer Vision, Web dev**
   
 - 👨‍💻 All my projects are available [Here](https://github.com/PuL5TaR?tab=repositories)
 <!-- - 📫 Reach me at **- myemail@email.com** -->
