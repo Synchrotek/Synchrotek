@@ -10,9 +10,9 @@
 <!------------------------------------------------------------------------------------------->
     
 <!-- Coding time stats on the right -->
-### If U can dream it, U can Code it ✌
+## If U can dream it, U can Code it ✌
 
-<br><span>
+<span>
 <i><strong>This week I did :</strong></i>
 
 <!--START_SECTION:waka-->
