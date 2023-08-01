@@ -1,9 +1,3 @@
-
-
-<!---------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------->
-
 <h1 align="left">Hi 👋, I'm Satyajit</h1>
 <!-- <h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
 <br><br> -->
@@ -20,7 +14,7 @@
 
 <!-- Coding time stats on the right -->
     
-## I sepnt time coding in : 
+## This week I spent time in : 
 <!--START_SECTION:waka-->
     
 ```txt
@@ -29,9 +23,10 @@ JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->  
-</div><hr>
-    
+</div><hr><br>
+
 - 🌱 I’m currently learning **javascript, MERN stack**
+  
 - 👨‍💻 All my projects are available [Here](https://github.com/PuL5TaR?tab=repositories)
 <!-- - 📫 Reach me at **- myemail@email.com** -->
 - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**
@@ -60,7 +55,7 @@ JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░
 </p>
 
 -->
-
+<br>
 <p align="left">
 <span><big><strong>Languages that I prefer &nbsp;: &nbsp;</strong></big></span>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
