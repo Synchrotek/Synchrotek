@@ -10,8 +10,8 @@
 
 <div>
 <!-- Image on the left -->
-<img width="300" align="left" align="" alt="Coding" src="https://github.com/PuL5TaR/music_visualizer32/assets/77431114/50d42046-d501-438e-832d-48a0176abdbb">
-
+<img width="300" align="left" align="" alt="Coding" src="https://github.com/PuL5TaR/music_visualizer32/assets/77431114/81ee1b50-8712-4d73-aa0c-63beccc6bd55">
+    
 <!-- Coding time stats on the right -->
     
 ## This week I spent time in : 
@@ -55,6 +55,7 @@ JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░
 </p>
 
 -->
+
 <br>
 <p align="left">
 <span><big><strong>Languages that I prefer &nbsp;: &nbsp;</strong></big></span>
