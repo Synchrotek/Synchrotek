@@ -12,7 +12,6 @@
 
 <!-- Coding time stats on the right -->
 #### ᴛʜɪꜱ ᴡᴇᴇᴋ ɪ ᴅɪᴅ : 
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -58,3 +57,8 @@ Markdown     17 mins         █░░░░░░░░░░░░░░░░
     <a href="https://app.daily.dev/PuL5Tar"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=hjw" width="200" alt="Satyajit Nayak's Dev Card"/></a>
 </details>
 
+
+<!------OPTIONAL------------------------------------------------------------------------------------
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pul5tar&theme=highcontras)](https://github.com/PuL5TaR/github-readme-stats)
+-->
