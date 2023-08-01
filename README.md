@@ -16,7 +16,7 @@
 
 <div>
 <!-- Image on the left -->
-<img width="300" align="left" align="" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
+<img width="300" align="left" align="" alt="Coding" src="https://github.com/PuL5TaR/music_visualizer32/assets/77431114/50d42046-d501-438e-832d-48a0176abdbb">
 
 <!-- Coding time stats on the right -->
     
