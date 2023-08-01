@@ -22,7 +22,7 @@ JavaScript   53 mins         ████████░░░░░░░░░
 
 <!--END_SECTION:waka-->  
 
-</div><hr><br>
+</div><hr>
 
 #### - 🌱 I’m currently learning **Computer Vision, Web dev**.
   
