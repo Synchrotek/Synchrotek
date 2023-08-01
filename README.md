@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Satyajit</h1>
+<h1 align="left">𝙃𝙞 👋, 𝙄'𝙢 𝙎𝙖𝙩𝙮𝙖𝙟𝙞𝙩</h1>
 <!-- <h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
 
 <!------------------------------------------------------------------------------------------->
@@ -8,10 +8,10 @@
 <img width="300" align="left" align="" alt="Coding" src="https://github.com/PuL5TaR/music_visualizer32/assets/77431114/81ee1b50-8712-4d73-aa0c-63beccc6bd55">
 
 <!------------------------------------------------------------------------------------------->
-## If U can dream it, U can Code it ✌
+## ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ ✌
     
 <!-- Coding time stats on the right -->
-### This week I did : 
+### ᴛʜɪꜱ ᴡᴇᴇᴋ ɪ ᴅɪᴅ : 
 
 <!--START_SECTION:waka-->
 
@@ -32,14 +32,13 @@ JavaScript   53 mins         ████████░░░░░░░░░
 #### - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
 
 <!------------------------------------------------------------------------------------------->
-<hr width="400px" size="1px">
+<hr width="35%" size="1px">
 
 ## 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨 : 
     
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -48,7 +47,7 @@ JavaScript   53 mins         ████████░░░░░░░░░
 
 <!------------------------------------------------------------------------------------------->
 
-<details close> 
+<details open> 
   <summary><h2>Git Stats</h2></summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&theme=transparent&layout=compact" alt="Most used Languages"/>
         <br>
