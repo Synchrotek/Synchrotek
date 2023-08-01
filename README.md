@@ -8,31 +8,27 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pul5tar&label=Profile%20views&color=0e75b6&style=flat" alt="pul5tar" /> </p>  -->
 
-
-<table>
-<tr>
-<td>
+<p align="left">
+<img width="350" align="right" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
+<span width="20">
 <!--START_SECTION:waka-->
-    
+
 ```txt
 Markdown     16 mins         ████████████████████████▓   98.14 %
 JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->  
-</td>
-<td>
-<img width="350" align="right" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
-</td>
-</tr>
-<tr>
-<td colspan="2"><ul><br>
+
+</span>
+</p>
+<br><br>
+<table>
+<tr><td><ul><br>
     <li> 🌱 I’m currently learning  <strong>Computer vision & web dev</strong></li>
     <li> 👨‍💻 All my projects are available <a href="https://github.com/PuL5TaR?tab=repositories">here</a></li>
     <li>⚡ Fun fact <strong>- Like me Games are biggest motivation of many programmers</strong></li>
-</ul>
-</td>
-</tr>
+<br></ul></td></tr>
 </table>
 
 <!--
