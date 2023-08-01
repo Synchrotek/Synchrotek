@@ -15,14 +15,10 @@
 <!-- Coding time stats on the right -->
 ## If U can dream it, U can Code it ✌
 ### This week I did : 
+
 <!--START_SECTION:waka-->
-
-```txt
-Markdown     1 hr 32 mins    █████████████████░░░░░░░░   70.66 %
-JavaScript   53 mins         ████████░░░░░░░░░░░░░░░░░   29.34 %
-```
-
 <!--END_SECTION:waka-->  
+
 </div><hr><br>
 
 - 🌱 I’m currently learning **javascript, MERN stack**
