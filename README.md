@@ -29,14 +29,14 @@ JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->  
-</div>
+</div><hr>
     
 - 🌱 I’m currently learning **javascript, MERN stack**
-- 👨‍💻 All my projects are available at - 
-[https://github.com/PuL5TaR?tab=repositories](https://github.com/PuL5TaR?tab=repositories)
+- 👨‍💻 All my projects are available [Here](https://github.com/PuL5TaR?tab=repositories)
 <!-- - 📫 Reach me at **- myemail@email.com** -->
 - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**
 
+<!--
 </p>
 <br><br>
 <table>
@@ -46,6 +46,7 @@ JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░
     <li>⚡ Fun fact <strong>- Like me Games are biggest motivation of many programmers</strong></li>
 <br></ul></td></tr>
 </table>
+-->
 
 <!--
 <p>
