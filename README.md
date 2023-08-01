@@ -32,17 +32,19 @@ JavaScript   53 mins         ████████░░░░░░░░░
 #### - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
 
 <!------------------------------------------------------------------------------------------->
+<hr width="30%" size="1px">
 
-<br>
-<p align="left">
-<span><big><strong>Languages that I prefer &nbsp;: &nbsp;</strong></big></span>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://user-images.githubusercontent.com/77431114/209035553-878c6780-bd9b-4f51-99de-6d1e615cce12.png" alt="cplusplus" width="20" height="20" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><span></span><span></span>
-    <img align="center" src="https://user-images.githubusercontent.com/77431114/208966929-0a119923-ed46-44c5-8861-54b8e998db9e.png" alt="cplusplus" width="20" height="22" /></a>&nbsp;&nbsp;
-<a href="https://www.python.org/" alt="python" width="40" height="40"><span></span><span></span>
-    <img align="center" src="https://user-images.githubusercontent.com/77431114/208967042-538c3c39-b150-4e03-9e51-d1b2a0b6207d.png" alt="nodejs" width="22" height="22" /> </a>&nbsp;&nbsp;
-</p>
+## 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨 : 
+    
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 <!------------------------------------------------------------------------------------------->
 
