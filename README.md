@@ -1,6 +1,28 @@
-<h1 align="center">Hi 👋, I'm Satyajit</h1>
-<h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
+<div>
+<!-- Image on the left -->
+<img width="300" align="left" align="" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
+
+<!-- Coding time stats on the right -->
+    
+## I sepnt time coding in : 
+<!--START_SECTION:waka-->
+    
+```txt
+Markdown     16 mins         ████████████████████████▓   98.14 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+```
+
+<!--END_SECTION:waka-->  
+</div>
+
+<!---------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------->
+
 <br><br>
+<h1 align="left">Hi 👋, I'm Satyajit</h1>
+<!-- <h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
+<br><br> -->
 
 <!-- <img align="center" alt="coding" width="100%" height="150px" src="https://user-images.githubusercontent.com/77431114/209073545-401545cf-ff6a-4eb0-9127-d0b77ac5d402.png">
 <br>
@@ -8,19 +30,29 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pul5tar&label=Profile%20views&color=0e75b6&style=flat" alt="pul5tar" /> </p>  -->
 
-<p align="left">
-<img width="350" align="right" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
-<span width="20">
-<!--START_SECTION:waka-->
+<div>
+<!-- Image on the left -->
+<img width="300" align="left" align="" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
 
+<!-- Coding time stats on the right -->
+    
+## I sepnt time coding in : 
+<!--START_SECTION:waka-->
+    
 ```txt
 Markdown     16 mins         ████████████████████████▓   98.14 %
 JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->  
+</div>
+    
+- 🌱 I’m currently learning **javascript, MERN stack**
+- 👨‍💻 All my projects are available at - 
+[https://github.com/PuL5TaR?tab=repositories](https://github.com/PuL5TaR?tab=repositories)
+<!-- - 📫 Reach me at **- myemail@email.com** -->
+- ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**
 
-</span>
 </p>
 <br><br>
 <table>
