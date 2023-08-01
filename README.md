@@ -23,7 +23,6 @@ JavaScript   53 mins         ████████░░░░░░░░░
 <!--END_SECTION:waka-->  
 
 </div><hr>
-</span>
     
 #### - 🌱 I’m currently learning **Computer Vision, Web dev**.
   
@@ -45,12 +44,12 @@ JavaScript   53 mins         ████████░░░░░░░░░
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&theme=transparent&layout=compact" alt="Most used Languages"/>
+
 <!------------------------------------------------------------------------------------------->
 
-<details open> 
+<details close> 
   <summary><h2>Git Stats</h2></summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&theme=transparent&layout=compact" alt="Most used Languages"/>
-        <br>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
         <br> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pul5tar&theme=merko" alt="Current & Total Streak"/>
