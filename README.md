@@ -1,25 +1,9 @@
-<div>
-<!-- Image on the left -->
-<img width="300" align="left" align="" alt="Coding" src="https://user-images.githubusercontent.com/77431114/209034093-3f771f69-da97-4c83-8086-6bfe90c0735f.gif">
 
-<!-- Coding time stats on the right -->
-    
-## I sepnt time coding in : 
-<!--START_SECTION:waka-->
-    
-```txt
-Markdown     16 mins         ████████████████████████▓   98.14 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-```
-
-<!--END_SECTION:waka-->  
-</div>
 
 <!---------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------->
 
-<br><br>
 <h1 align="left">Hi 👋, I'm Satyajit</h1>
 <!-- <h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
 <br><br> -->
