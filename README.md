@@ -44,7 +44,7 @@ Markdown     17 mins         █░░░░░░░░░░░░░░░░
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&theme=transparent&layout=compact" alt="Most used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&theme=transparent&layout=compact&custom_title=Languages+I+mostly+used+:" alt="Most used Languages"/>
 
 <!------------------------------------------------------------------------------------------->
 
