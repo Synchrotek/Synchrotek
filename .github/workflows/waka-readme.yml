@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   workflow_dispatch: # for manual workflow trigger
-  #schedule:
-  #  - cron: "0 0 * * *" # runs at every 12AM UTC
+  schedule:
+    - cron: "0 1 * * *" # runs at every 1AM UTC
 
 jobs:
   update-readme:
@@ -19,5 +19,5 @@ jobs:
           #REPOSITORY: <gh_username/gh_username>
           # conent
           SHOW_TITLEL: true
-          BLOCKS: ->
+          # BLOCKS: ->
           TIME_RANGE: all_time
