@@ -18,6 +18,7 @@ jobs:
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
           # conent
-          SHOW_TITLEL: true
-          # BLOCKS: ->
+          # SHOW_TITLEL: true
+          LANG_COUNT: 3
           TIME_RANGE: all_time
+          # BLOCKS: ->
