@@ -60,5 +60,5 @@ Markdown     1 hr 33 mins    ███▒░░░░░░░░░░░░░
 
 <!------OPTIONAL------------------------------------------------------------------------------------
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pul5tar&theme=highcontras)](https://github.com/PuL5TaR/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pul5tar&theme=highcontras)](https://github.com/PuL5TaR/github-readme-stats)
 -->
