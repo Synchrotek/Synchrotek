@@ -11,7 +11,7 @@
 ### ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ
 
 <!-- Coding time stats on the right -->
-#### ᴛʜɪꜱ​​ ᴡᴇᴇᴋ ɪ ᴅɪᴅ:  
+#### ᴛʜɪꜱ​​ ᴡᴇᴇᴋ ɪ ᴅɪᴅ: 
 <!--START_SECTION:waka-->
 
 ```txt
