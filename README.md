@@ -1,6 +1,6 @@
 <h1 align="left">𝙃𝙞 👋, 𝙄'𝙢 𝙎𝙖𝙩𝙮𝙖𝙟𝙞𝙩</h1>
 <!-- <h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
- 
+
 <!------------------------------------------------------------------------------------------->
 
 <div>
