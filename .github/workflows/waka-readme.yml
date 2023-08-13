@@ -20,5 +20,5 @@ jobs:
           # ----- conent ------
           # SHOW_TITLEL: true
           LANG_COUNT: 3
-          TIME_RANGE: last_6_months
-          # BLOCKS: ->
+          TIME_RANGE: last_30_days
+          BLOCKS: ░▒▓
