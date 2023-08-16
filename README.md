@@ -2,7 +2,7 @@
 <!-- <h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
 
 <!------------------------------------------------------------------------------------------->
-
+ 
 <div>
 <!-- Image on the left -->
 <img width="300" align="left" align="" alt="Coding" src="https://github.com/PuL5TaR/music_visualizer32/assets/77431114/81ee1b50-8712-4d73-aa0c-63beccc6bd55">
