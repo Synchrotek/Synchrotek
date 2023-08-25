@@ -19,6 +19,8 @@ jobs:
           #REPOSITORY: <gh_username/gh_username>
           # ----- conent ------
           # SHOW_TITLEL: true
-          LANG_COUNT: 3
-          TIME_RANGE: last_7_days
           BLOCKS: ░█
+          LANG_COUNT: 4
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: true
