@@ -54,7 +54,7 @@ CSS          50 mins         █░░░░░░░░░░░░░░░░
         <br> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
     <br><br>
-    <a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=6e6" width="300" alt="Satyajit Nayak's Dev Card"/></a>
+    <a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=6e6" width="250" alt="Satyajit Nayak's Dev Card"/></a>
 </details>
 
 
