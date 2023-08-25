@@ -15,12 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 17 August 2023 - To: 24 August 2023
+
 Total Time: 16 hrs 57 mins
 
 C++          8 hrs 1 min     ████████████░░░░░░░░░░░░░   47.15 %
 Python       7 hrs 35 mins   ███████████░░░░░░░░░░░░░░   44.68 %
 CSS          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-HTML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->  
