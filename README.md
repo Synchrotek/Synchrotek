@@ -26,7 +26,7 @@ CSS          50 mins         █░░░░░░░░░░░░░░░░
     
 #### - 🌱 I’m currently learning **Computer Vision, Web dev**.
   
-#### - 👨‍💻 All my projects are available [Here](https://github.com/PuL5TaR?tab=repositories).
+#### - 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
 <!-- #### - 📫 Reach me at **- myemail@email.com** -->
 #### - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
 
@@ -44,13 +44,13 @@ CSS          50 mins         █░░░░░░░░░░░░░░░░
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pul5tar&show_icons=true&theme=transparent&layout=compact&custom_title=Languages+I+mostly+used+:" alt="Most used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&custom_title=Languages+I+mostly+used+:" alt="Most used Languages"/>
 
 <!------------------------------------------------------------------------------------------->
 
 <details close> 
   <summary><h2>Git Stats</h2></summary>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=pul5tar&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
         <br> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
     <br><br>
@@ -60,5 +60,5 @@ CSS          50 mins         █░░░░░░░░░░░░░░░░
 
 <!------OPTIONAL------------------------------------------------------------------------------------
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pul5tar&theme=highcontras)](https://github.com/PuL5TaR/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Synchrotek&theme=highcontras)](https://github.com/Synchrotek/github-readme-stats)
 -->
