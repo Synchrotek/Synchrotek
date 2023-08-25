@@ -60,5 +60,5 @@ CSS          50 mins         █░░░░░░░░░░░░░░░░
 
 <!------OPTIONAL------------------------------------------------------------------------------------
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Synchrotek&theme=highcontras)](https://github.com/Synchrotek/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=highcontras)](https://github.com//github-readme-stats)
 -->
