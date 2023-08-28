@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
-C++           9 hrs 41 mins   ████████████████░░░░░░░░░   62.52 %
-CSS           2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   18.17 %
-HTML          2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   14.00 %
+C++           9 hrs 58 mins   █████████████░░░░░░░░░░░░   50.91 %
+CSS           4 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   21.91 %
+HTML          4 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.42 %
 ```
 
 <!--END_SECTION:waka-->  
