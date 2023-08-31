@@ -26,7 +26,7 @@ CSS              7 hrs 30 mins   █████░░░░░░░░░░�
 
 </div><hr>
     
-#### - 🌱 I’m currently learning **Computer Vision, Web dev**.
+#### - 🌱 I’m currently learning **node.js, Django**.
   
 #### - 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
 <!-- #### - 📫 Reach me at **- myemail@email.com** -->
