@@ -30,7 +30,7 @@ C++              10 hrs 18 mins  ██████░░░░░░░░░�
 
 #### - 👋 Hi, I’m a cs student.
 
-#### - 🌱 Passionate about - **ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.**
+#### - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
 #### - 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
 <!-- #### - 📫 Reach me at **- myemail@email.com** -->
