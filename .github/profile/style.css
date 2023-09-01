@@ -1,0 +1,4 @@
+/* Remove link icon from mobile browsers */
+.profile-pinned-item .pinned-item-link:before {
+  display: none;
+}
