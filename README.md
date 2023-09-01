@@ -28,11 +28,13 @@ C++              10 hrs 18 mins  ██████░░░░░░░░░�
     
 <!-- #### - 🌱 I’m currently learning **node.js, Django**. -->
 
-#### 🌱 I’m a CS Student, evolving with **Each line of code**.
+#### - 👋 Hi, I’m a CS Student.
+
+#### - 🌱 Passionate about **Web dev, ML, Automation**.
   
-#### 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
+#### - 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
 <!-- #### - 📫 Reach me at **- myemail@email.com** -->
-#### ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
+#### - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
 
 <!------------------------------------------------------------------------------------------->
 <hr width="35%" size="1px">
