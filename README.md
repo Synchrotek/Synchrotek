@@ -28,7 +28,7 @@ C++              10 hrs 18 mins  ██████░░░░░░░░░�
     
 <!-- #### - 🌱 I’m currently learning **node.js, Django**. -->
 
-#### - 🌱 I’m a CS Student currently evolving with **Each line of code**.
+#### - 🌱 I’m a CS Student, evolving with **Each line of code**.
   
 #### - 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
 <!-- #### - 📫 Reach me at **- myemail@email.com** -->
