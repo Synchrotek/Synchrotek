@@ -28,7 +28,7 @@ C++              10 hrs 18 mins  ██████░░░░░░░░░�
     
 <!-- #### - 🌱 I’m currently learning **node.js, Django**. -->
 
-#### - 👋 Hi, I’m a CS Student.
+#### - 👋 Hi, I’m a cs student.
 
 #### - 🌱 Passionate about **Web dev, ML, Automation**.
   
