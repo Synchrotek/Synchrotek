@@ -7,11 +7,10 @@
 <!-- Image on the left -->
 <img width="303" align="left" align="" alt="Coding" src="https://github.com/PuL5TaR/music_visualizer32/assets/77431114/81ee1b50-8712-4d73-aa0c-63beccc6bd55">
 
-<!--#### ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ-->
+#### ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
  
-![Visitor Count](https://profile-counter.glitch.me/Synchrotek/count.svg)
 
 
 <!-- Coding time stats on the right -->
@@ -63,8 +62,11 @@ C++              2 hrs 56 mins   ██░░░░░░░░░░░░░�
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
         <br> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
-    <br><br>
-    <a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=6e6" width="250" alt="Satyajit Nayak's Dev Card"/></a>
+<br><br>
+ 
+![Visitor Count](https://profile-counter.glitch.me/Synchrotek/count.svg)
+
+<a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=6e6" width="250" alt="Satyajit Nayak's Dev Card"/></a>
 </details>
 
 
