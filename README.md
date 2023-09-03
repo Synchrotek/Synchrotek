@@ -57,7 +57,7 @@ C++              2 hrs 56 mins   ██░░░░░░░░░░░░░�
 
 <!------------------------------------------------------------------------------------------->
 
-<details open> 
+<details close> 
   <summary><h2>Git Stats</h2></summary>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
         <br> -->
