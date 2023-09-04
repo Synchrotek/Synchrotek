@@ -63,12 +63,12 @@ C++              2 hrs 39 mins   ██░░░░░░░░░░░░░�
 <!-- ![Visitor Count](https://profile-counter.glitch.me/Synchrotek/count.svg) -->
  
   <summary><h2>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2></summary>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
-        <br> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/> <br> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
 <br><br>
 
 <a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=fo3" width="250" alt="Satyajit Nayak's Dev Card"/></a>
+
 </details>
 
 
