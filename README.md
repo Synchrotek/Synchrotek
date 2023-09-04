@@ -62,7 +62,7 @@ C++              2 hrs 39 mins   ██░░░░░░░░░░░░░�
 ![](https://komarev.com/ghpvc/?username=Synchrotek&color=orange&style=for-the-badge)
 <!-- ![Visitor Count](https://profile-counter.glitch.me/Synchrotek/count.svg) -->
  
-  <summary><h2>gιтнυв ѕтαтѕ</h2></summary>
+  <summary><h2>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2></summary>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/>
         <br> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
