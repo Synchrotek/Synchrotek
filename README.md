@@ -59,7 +59,7 @@ C++              2 hrs 39 mins   ██░░░░░░░░░░░░░�
 
 <details open> 
 
-![](https://komarev.com/ghpvc/?username=Synchrotek&color=yellowgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Synchrotek&color=orange&style=for-the-badge)
 <!-- ![Visitor Count](https://profile-counter.glitch.me/Synchrotek/count.svg) -->
  
   <summary><h2>Git Stats</h2></summary>
