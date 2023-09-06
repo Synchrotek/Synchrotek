@@ -67,7 +67,7 @@ Python       56 mins         █░░░░░░░░░░░░░░░░
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
 <br><br>
 
-<a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=fo3" width="250" alt="Satyajit Nayak's Dev Card"/></a>
+<a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=fo3" width="250" alt="Synchrotek's Dev Card"/></a>
 
 </details>
 
