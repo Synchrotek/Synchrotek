@@ -11,8 +11,6 @@
 <h4>&nbsp&nbsp&nbsp ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ</h4>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
- 
-
 
 <!-- Coding time stats on the right -->
 <!-- #### ᴛʜɪꜱ ᴡᴇᴇᴋ ꜱᴛᴀᴛꜱ : -->
