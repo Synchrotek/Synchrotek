@@ -5,7 +5,7 @@
 
 <div>
 <!-- Image on the left -->
-<img width="323" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
+<img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
 
 #### ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ
 
@@ -26,7 +26,8 @@ Python   16 mins         █░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->  
 
 </div>
-<hr align="center" width="98%" size="1px">
+
+-------------------------
     
 <!-- #### - 🌱 I’m currently learning **node.js, Django**. -->
 
