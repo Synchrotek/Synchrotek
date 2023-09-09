@@ -4,7 +4,7 @@
 <!------------------------------------------------------------------------------------------->
 
 <div>
-<!-- Image on the left -->
+<!---------  Image on the left -------------------->
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
     
 #### ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ
@@ -14,8 +14,7 @@
 -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
 
-<!-- Coding time stats on the right -->
-<!-- #### ᴛʜɪꜱ ᴡᴇᴇᴋ ꜱᴛᴀᴛꜱ : -->
+<!-------- Coding time stats on the right --------->
 <!--START_SECTION:waka-->
 
 ```txt
