@@ -25,7 +25,8 @@ Python   16 mins         █░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->  
 
-</div><hr>
+</div>
+<hr align="center" width="98%" size="1px">
     
 <!-- #### - 🌱 I’m currently learning **node.js, Django**. -->
 
