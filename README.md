@@ -7,7 +7,7 @@
 <!-- Image on the left -->
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&width=435&height=10&lines=%C9%AA%EA%9C%B0+%E1%B4%9C+%E1%B4%84%E1%B4%80%C9%B4+%E1%B4%85%CA%80%E1%B4%87%E1%B4%80%E1%B4%8D+%C9%AA%E1%B4%9B%2C+%E1%B4%9C+%E1%B4%84%E1%B4%80%C9%B4+%E1%B4%84%E1%B4%8F%E1%B4%85%E1%B4%87+%C9%AA%E1%B4%9B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&width=435&height=13&lines=%C9%AA%EA%9C%B0+%E1%B4%9C+%E1%B4%84%E1%B4%80%C9%B4+%E1%B4%85%CA%80%E1%B4%87%E1%B4%80%E1%B4%8D+%C9%AA%E1%B4%9B%2C+%E1%B4%9C+%E1%B4%84%E1%B4%80%C9%B4+%E1%B4%84%E1%B4%8F%E1%B4%85%E1%B4%87+%C9%AA%E1%B4%9B)](https://git.io/typing-svg)
 
 <!-- #### ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
