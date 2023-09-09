@@ -58,7 +58,7 @@ Python   16 mins         █░░░░░░░░░░░░░░░░░�
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&custom_title=Languages+I+mostly+used+:" alt="Most used Languages"/>
 
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 
 <!------------------------------------------------------------------------------------------->
 
