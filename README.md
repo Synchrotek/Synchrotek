@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2023 - To: 15 September 2023
+From: 09 September 2023 - To: 16 September 2023
 
-CSS          9 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   33.64 %
-JavaScript   8 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   29.08 %
-HTML         8 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
+JavaScript   14 hrs 9 mins   ██████████░░░░░░░░░░░░░░░   38.12 %
+CSS          12 hrs 46 mins  █████████░░░░░░░░░░░░░░░░   34.41 %
+HTML         9 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   25.31 %
 ```
 
 <!--END_SECTION:waka-->  
