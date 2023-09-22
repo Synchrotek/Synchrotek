@@ -22,7 +22,6 @@ From: 15 September 2023 - To: 22 September 2023
 Python            16 hrs 33 mins  ███████████░░░░░░░░░░░░░░   45.01 %
 JavaScript        13 hrs 14 mins  █████████░░░░░░░░░░░░░░░░   35.98 %
 CSS               4 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-HTML              1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->  
