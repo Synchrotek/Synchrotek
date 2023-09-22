@@ -26,7 +26,6 @@ CSS               4 hrs 2 mins    ███░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->  
 
-> Hello world 
 ***
     
 <!-- #### - 🌱 I’m currently learning **node.js, Django**. -->
