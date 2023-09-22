@@ -1,9 +1,8 @@
-<h1 align="left">𝙃𝙞 👋, 𝙄'𝙢 𝙎𝙖𝙩𝙮𝙖𝙟𝙞𝙩</h1>
+## 𝙃𝙞 👋, 𝙄'𝙢 𝙎𝙖𝙩𝙮𝙖𝙟𝙞𝙩
 <!-- <h2 align="center">A student of CS, continuously evolving with each Line of code</h2> 
 
 <!------------------------------------------------------------------------------------------->
 
-<div>
 <!---------  Image on the left -------------------->
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
     
@@ -27,7 +26,6 @@ Python            8 hrs 1 min     █████░░░░░░░░░░�
 
 <!--END_SECTION:waka-->  
 
-</div>
 
 ***
     
