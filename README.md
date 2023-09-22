@@ -30,13 +30,13 @@ Python            8 hrs 1 min     █████░░░░░░░░░░�
     
 <!-- #### - 🌱 I’m currently learning **node.js, Django**. -->
 
-#### - 👋 Hi, I’m a cs student.
+- 👋 Hi, I’m a cs student.
 
-#### - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
+- 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
-#### - 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
+- 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
 <!-- #### - 📫 Reach me at **- myemail@email.com** -->
-#### - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
+- ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
 
 <!------------------------------------------------------------------------------------------->
 <hr width="35%" size="1px">
