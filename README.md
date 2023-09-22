@@ -8,7 +8,6 @@
 
 <!-- ***ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ*** -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&pause=1000&color=F7F7F7&vCenter=true&width=435&height=13&lines=ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ,+ᴜ+ᴄᴀɴ+ᴄᴏᴅᴇ+ɪᴛ)](https://git.io/typing-svg)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
 
@@ -25,6 +24,8 @@ CSS               4 hrs 2 mins    ███░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->  
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&pause=1000&color=F7F7F7&vCenter=true&width=435&height=13&lines=ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ,+ᴜ+ᴄᴀɴ+ᴄᴏᴅᴇ+ɪᴛ)](https://git.io/typing-svg)
 ***
     
 <!-- #### - 🌱 I’m currently learning **node.js, Django**. -->
