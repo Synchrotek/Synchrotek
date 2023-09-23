@@ -74,6 +74,8 @@ CSS               4 hrs 2 mins    ███░░░░░░░░░░░░�
 ***
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<img width="100%" align="left" alt="Coding" src="https://github.com/Synchrotek/Ascii-art-generator-py/assets/77431114/0a1182c2-5f33-4486-93b6-50e350c6a330">
+
 <!------OPTIONAL------------------------------------------------------------------------------------
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=highcontras)](https://github.com//github-readme-stats)
