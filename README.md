@@ -7,11 +7,10 @@
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
 
 <!-- ***ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ*** -->
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&pause=1000&color=F7F7F7&vCenter=true&width=435&height=11&lines=+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ,+ᴜ+ᴄᴀɴ+ᴄᴏᴅᴇ+ɪᴛ;+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ,+ᴜ+ᴄᴀɴ+ᴅᴏ+ɪᴛ;+ᴄᴜᴢ+ʏᴏᴜ+ᴄᴀɴ+ɴᴇᴠᴇʀ+ɢɪᴠᴇ+ᴜᴘ+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
 
-<!-------- Coding time stats on the right --------->
 <!--START_SECTION:waka-->
 
 ```txt
@@ -23,18 +22,16 @@ CSS               4 hrs 2 mins    ███░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&pause=1000&color=F7F7F7&vCenter=true&width=435&height=11&lines=+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ,+ᴜ+ᴄᴀɴ+ᴄᴏᴅᴇ+ɪᴛ;+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ,+ᴜ+ᴄᴀɴ+ᴅᴏ+ɪᴛ;+ᴄᴜᴢ+ʏᴏᴜ+ɴᴇᴠᴇʀ+ɢɪᴠᴇ+ᴜᴘ+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
-
 ***
     
-<!-- #### - 🌱 I’m currently learning **node.js, Django**. -->
+<!-- #### - 🌱 I’m currently learning **subject here**. -->
 
 - 👋 Hi, I’m a cs student.
 
 - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
 - 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
-<!-- #### - 📫 Reach me at **- myemail@email.com** -->
+  
 - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
 
 <!------------------------------------------------------------------------------------------->
