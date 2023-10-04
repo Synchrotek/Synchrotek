@@ -12,7 +12,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
 
 <!--START_SECTION:waka-->
-
+ 
 ```txt
 From: 26 September 2023 - To: 03 October 2023
 
