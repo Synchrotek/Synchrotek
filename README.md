@@ -6,8 +6,8 @@
 <!---------  Image on the left -------------------->
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
 
-<!-- ***ɪꜰ ᴜ ᴄᴀɴ ᴅʀᴇᴀᴍ ɪᴛ, ᴜ ᴄᴀɴ ᴄᴏᴅᴇ ɪᴛ*** -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&pause=1000&color=F7F7F7&vCenter=true&width=435&height=11&lines=+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ,+ᴜ+ᴄᴀɴ+ᴄᴏᴅᴇ+ɪᴛ;+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ,+ᴜ+ᴄᴀɴ+ᴅᴏ+ɪᴛ;+​ʙᴇᴄᴀᴜꜱᴇ+ʏᴏᴜ+ɴᴇᴠᴇʀ+ɢɪᴠᴇ+ᴜᴘ+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&pause=1000&color=F7F7F7&vCenter=true&width=435&height=11&lines=+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ+<+ᴜ+ᴄᴀɴ+ᴄᴏᴅᴇ+ɪᴛ+/+>;+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ+>+ᴜ+ᴄᴀɴ+ᴅᴏ+ɪᴛ;+ᴄᴜᴢ+ʏᴏᴜ+ᴄᴀɴ+ɴᴇᴠᴇʀ+ɢɪᴠᴇ+ᴜᴘ+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
+
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
 
@@ -50,19 +50,15 @@ Python       2 hrs 30 mins   ██░░░░░░░░░░░░░░░
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&custom_title=Languages+I+mostly+used+:" alt="Most used Languages"/>
 
-
-<!-- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
-
 <!------------------------------------------------------------------------------------------->
 
 <details close> 
 <br>
     
 ![](https://komarev.com/ghpvc/?username=Synchrotek&color=orange&style=for-the-badge)
-<!-- ![Visitor Count](https://profile-counter.glitch.me/Synchrotek/count.svg) -->
  
   <summary><h2>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2></summary>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/> <br> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/> <br>
     <hr width="58%" size="1px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
 <br><br>
