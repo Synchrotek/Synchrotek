@@ -26,7 +26,7 @@ HTML         7 mins          █░░░░░░░░░░░░░░░░
     
 <!-- #### - 🌱 I’m currently learning **subject here**. -->
 
-- 👋 Hi, I'm a IT student.
+- 👋 Hi, I'm an IT student.
 
 - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
