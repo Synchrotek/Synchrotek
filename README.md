@@ -26,7 +26,7 @@ HTML         7 mins          █░░░░░░░░░░░░░░░░
     
 <!-- #### - 🌱 I’m currently learning **subject here**. -->
 
-- 👋 Hi, I’m a cs student.
+- 👋 Hi, I am a cs student.
 
 - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
