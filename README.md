@@ -56,10 +56,10 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
     
 ![](https://komarev.com/ghpvc/?username=Synchrotek&color=orange&style=for-the-badge)
  
-  <summary><h2>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2></summary>
+<summary><h2>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2></summary>
    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/> <br> -->
-    <hr width="58%" size="1px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
+ <hr width="58%" size="1px">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synchrotek&theme=merko" alt="Current & Total Streak"/>
 <br><br>
 
 <!-- <a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=n83" width="250" alt="Synchrotek's Dev Card"/></a> -->
