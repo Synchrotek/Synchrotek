@@ -63,7 +63,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <br><br>
 
 <!-- <a href="https://app.daily.dev/Synchrotek"><img src="https://api.daily.dev/devcards/66ee5feb68f843f287b2212e4efec70d.png?r=n83" width="250" alt="Synchrotek's Dev Card"/></a> -->
-
 </details>
 
 ***
