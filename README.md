@@ -8,7 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&pause=1000&color=F7F7F7&vCenter=true&width=435&height=11&lines=+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ+<+ᴜ+ᴄᴀɴ+ᴄᴏᴅᴇ+ɪᴛ+/+>;+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ+>+ᴜ+ᴄᴀɴ+ᴅᴏ+ɪᴛ;+ʙᴇᴄᴀᴜꜱᴇ+ʏᴏᴜ+ɴᴇᴠᴇʀ+ɢɪᴠᴇ+ᴜᴘ+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
 
-
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
 
 <!--START_SECTION:waka-->
