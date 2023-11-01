@@ -49,7 +49,7 @@ HTML         1 hr 18 mins    ███░░░░░░░░░░░░░░
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&custom_title=Languages+I+mostly+used+:" alt="Most used Languages"/>
 
-<!---popUp-Menu----------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------->
 <details close> 
 <br>
     
