@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-JavaScript   22 hrs 50 mins  █████████████████░░░░░░░░   69.55 %
-CSS          4 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.17 %
-C++          3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+JavaScript   17 hrs 29 mins  █████████████████░░░░░░░░   66.10 %
+CSS          4 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+C++          3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
 ```
 
 <!--END_SECTION:waka-->  
