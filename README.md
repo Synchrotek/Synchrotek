@@ -26,7 +26,6 @@ JSON         21 mins         █░░░░░░░░░░░░░░░░
 <!-- #### - 🌱 I’m currently learning **subject here**. -->
 
 - 👋 Hi, I'm an IT student.
-
 - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
 - 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
