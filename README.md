@@ -27,9 +27,7 @@ JSON         21 mins         █░░░░░░░░░░░░░░░░
 
 - 👋 Hi, I'm an IT student.
 - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
-  
 - 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
-  
 - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
 
 <!------------------------------------------------------------------------------------------->
