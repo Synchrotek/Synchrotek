@@ -72,7 +72,6 @@ Markdown     2 hrs 3 mins    ██░░░░░░░░░░░░░░░
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
 <!------OPTIONAL------------------------------------------------------------------------------------
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=highcontras)](https://github.com//github-readme-stats)
