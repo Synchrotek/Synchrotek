@@ -66,7 +66,6 @@ Python       12 mins         █░░░░░░░░░░░░░░░░
 </details>
 <!------------------------------------------------------------------------------------------->
 
-
 ***
 
 <img width="100%" align="left" alt="Coding" src="https://github.com/Synchrotek/Ascii-art-generator-py/assets/77431114/1eca3ec2-1c36-42b5-8f70-09a980afb4da"><br>
