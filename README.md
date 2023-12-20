@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-C++          3 hrs 6 mins    █████████████░░░░░░░░░░░░   51.07 %
-JavaScript   2 hrs 37 mins   ███████████░░░░░░░░░░░░░░   43.14 %
-Python       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+JavaScript   2 hrs 37 mins   ██████████████░░░░░░░░░░░   57.11 %
+C++          1 hr 50 mins    ██████████░░░░░░░░░░░░░░░   40.10 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->  
