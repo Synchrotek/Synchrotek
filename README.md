@@ -50,7 +50,7 @@ Markdown     19 mins         █░░░░░░░░░░░░░░░░
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&custom_title=Languages+I+mostly+used+:" alt="Most used Languages"/>
 
 <!------------------------------------------------------------------------------------------->
-<details close> 
+<details open> 
 <br>
     
 ![](https://komarev.com/ghpvc/?username=Synchrotek&color=orange&style=for-the-badge)
