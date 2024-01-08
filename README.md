@@ -72,7 +72,7 @@ JavaScript   14 mins         ██░░░░░░░░░░░░░░░
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!------OPTIONAL------------------------------------------------------------------------------
+<!------OPTIONAL-----------------------------------------------------------------------------
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=highcontras)](https://github.com//github-readme-stats)
 -->
