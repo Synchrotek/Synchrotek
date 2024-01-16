@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2024 - To: 14 January 2024
+From: 08 January 2024 - To: 15 January 2024
 
-Python       12 hrs 39 mins  █████████████████████░░░░   82.89 %
-C++          1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-TypeScript   56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Python       12 hrs 41 mins  ████████████████████░░░░░   81.72 %
+C++          1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+TypeScript   56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->  
