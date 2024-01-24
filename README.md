@@ -29,7 +29,7 @@ TypeScript   1 hr 50 mins    ████░░░░░░░░░░░░░
   
 - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
-- 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories).
+- 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories) & [here](https://github.com/ByteAstro?tab=repositories).
   
 - ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
 
