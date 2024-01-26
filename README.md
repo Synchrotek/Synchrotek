@@ -6,7 +6,7 @@
 <!---------  Image on the left side -------------------->
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&pause=1000&color=F7F7F7&vCenter=true&width=435&height=11&lines=+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ+<+ᴜ+ᴄᴀɴ+ᴄᴏᴅᴇ+ɪᴛ+/+>;+ɪꜰ+ᴜ+ᴄᴀɴ+ᴅʀᴇᴀᴍ+ɪᴛ+>+ᴜ+ᴄᴀɴ+ᴅᴏ+ɪᴛ;+ʙᴇᴄᴀᴜꜱᴇ+ʏᴏᴜ+ɴᴇᴠᴇʀ+ɢɪᴠᴇ+ᴜᴘ+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=10&pause=1000&color=F7F7F7&vCenter=true&width=435&height=9&lines=+IF+U+CAN+DREAM+IT+<+U+CAN+CODE+IT+/+>;+IF+U+CAN+DREAM+IT+>+U+CAN+DO+IT;+BECAUSE+YOU+NEVER+GIVE+UP+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
 
