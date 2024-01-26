@@ -25,13 +25,13 @@ Python       1 hr 32 mins    ███░░░░░░░░░░░░░░
     
 <!-- #### - 🌱 I’m currently learning **subject here**. -->
 
-- 👋 Hi, I'm an IT student.
-  
+- 👋  Hello! I'm an IT student with a passion for code and creativity.
+
 - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
-- 👨‍💻 All my projects are available [Here](https://github.com/Synchrotek?tab=repositories) & [here](https://github.com/ByteAstro?tab=repositories).
+- 👨‍💻 Explore all my projects [Here](https://github.com/Synchrotek?tab=repositories) & [here](https://github.com/ByteAstro?tab=repositories).
   
-- ⚡ Fun fact **- Like me Games are biggest motivation of many programmers**.
+- ⚡ Fun fact **- Games inspire many coders, including me!** They fuel creativity and problem-solving skills.
 
 <!------------------------------------------------------------------------------------------->
 <hr width="35%" size="1px">
