@@ -29,9 +29,9 @@ Python       1 hr 32 mins    ███░░░░░░░░░░░░░░
 
 - 🌱 Passionate about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
-- 👨‍💻 Explore all my projects [Here](https://github.com/Synchrotek?tab=repositories) & [here](https://github.com/ByteAstro?tab=repositories).
+- 🚀 Explore all my projects [***Here***](https://github.com/Synchrotek?tab=repositories) and [*here*](https://github.com/ByteAstro?tab=repositories).
   
-- ⚡ Fun fact **- Games inspire many coders, including me!** They fuel creativity and problem-solving skills.
+- ⚡ Fun fact **- Games inspire many coders, including me! _They fuel creativity and problem-solving skills._**
 
 <!------------------------------------------------------------------------------------------->
 <hr width="35%" size="1px">
