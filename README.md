@@ -53,7 +53,7 @@ Python       1 hr 32 mins    ███░░░░░░░░░░░░░░
 ![Arduino](https://img.shields.io/badge/-Arduino-0B666A?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&custom_title=Languages+I+mostly+used+:" alt="Most used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&hide_title=true" alt="Most used Languages"/>
 
 <!------------------------------------------------------------------------------------------->
 <details open> 
