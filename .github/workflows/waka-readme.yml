@@ -22,5 +22,5 @@ jobs:
           LANG_COUNT: 3
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
-          IGNORED_LANGUAGES: YAML JSON MARKDOWN # optional
+          IGNORED_LANGUAGES: Markdown YAML JSON
           
