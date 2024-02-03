@@ -25,13 +25,13 @@ Prisma       15 mins         ░░░░░░░░░░░░░░░░░
     
 <!-- #### - 🌱 I’m currently learning **subject here**. -->
 
-- 👋 **_Hello_! I'm an IT student with a passion for code and creativity.**
+- 👋 *Hello! I'm an IT student with a passion for code and creativity.
 
-- 🌱 **Enthusiastic  about - _ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ._**
+- 🌱 Enthusiastic  about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
-- 🚀 **Explore all my projects [***Here***](https://github.com/Synchrotek?tab=repositories) and [*here*](https://github.com/ByteAstro?tab=repositories).**
+- 🚀 Explore all my projects [*Here*](https://github.com/Synchrotek?tab=repositories) and [***here***](https://github.com/ByteAstro?tab=repositories).
   
-- ⚡ Fun fact **- Games inspire many coders, including me! _They fuel creativity and problem-solving skills._**
+- ⚡ Fun fact - *Games inspire many coders, including me! They fuel creativity and problem-solving skills.*
 
 <!------------------------------------------------------------------------------------------->
 <hr width="35%" size="1px">
