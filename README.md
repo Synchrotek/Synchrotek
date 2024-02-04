@@ -7,12 +7,11 @@
 <!--<img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55"> -->
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/11934337-716f-454b-ac70-0f6ce2937069">
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=10&pause=1000&color=F7F7F7&vCenter=true&width=435&height=8&lines=+IF+U+CAN+DREAM+IT+<+U+CAN+CODE+IT+/+>;+IF+U+CAN+DREAM+IT+>+U+CAN+DO+IT;+BECAUSE+YOU+NEVER+GIVE+UP+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=10&pause=1000&color=F7F7F7&vCenter=true&width=435&height=8&lines=+IF+U+CAN+DREAM+IT+<+U+CAN+CODE+IT+/+>;+IF+U+CAN+DREAM+IT+>+U+CAN+DO+IT;+BECAUSE+YOU+NEVER+GIVE+UP+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg) -->
 
 ###### Programming stats This week :
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
 <!--START_SECTION:waka-->
 
 ```txt
