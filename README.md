@@ -17,6 +17,8 @@
 ```txt
 From: 27 January 2024 - To: 03 February 2024
 
+Total Time: 20 hrs 6 mins
+
 TypeScript   9 hrs 54 mins   ████████████░░░░░░░░░░░░░   48.66 %
 JavaScript   6 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   31.25 %
 JSON         1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
