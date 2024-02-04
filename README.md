@@ -19,7 +19,7 @@ From: 27 January 2024 - To: 03 February 2024
 
 TypeScript   9 hrs 54 mins   ████████████░░░░░░░░░░░░░   48.66 %
 JavaScript   6 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   31.25 %
-JSON         1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Bash         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->  
