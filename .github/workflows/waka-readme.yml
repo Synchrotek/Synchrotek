@@ -21,6 +21,7 @@ jobs:
           LANG_COUNT: 3
           BLOCKS: ░█
           SHOW_TITLE: true
+          SHOW_TOTAL: true
           TIME_RANGE: last_7_days
           # IGNORED_LANGUAGES: Markdown
           
