@@ -8,10 +8,10 @@
 <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/aa213ee1-c0fa-4e52-b6fe-159e8a2b7e7b">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=10&pause=1000&color=F7F7F7&vCenter=true&width=435&height=12&lines=+IF+U+CAN+DREAM+IT+<+U+CAN+CODE+IT+/+>;+IF+U+CAN+DREAM+IT+>+U+CAN+DO+IT;+BECAUSE+YOU+NEVER+GIVE+UP+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=10&pause=1000&color=F7F7F7&vCenter=true&width=435&height=12&lines=+IF+U+CAN+DREAM+IT+<+U+CAN+CODE+IT+/+>;+IF+U+CAN+DREAM+IT+>+U+CAN+DO+IT;+BECAUSE+YOU+NEVER+GIVE+UP+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg) -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
-
+#### Programming stats This week :
 <!--START_SECTION:waka-->
 
 ```txt
