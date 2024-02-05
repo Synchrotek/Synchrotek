@@ -4,10 +4,10 @@
 <!------------------------------------------------------------------------------------------->
 
 <!---------  Image on the left side -------------------->
-<img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55">
+<!-- <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/67eb967a-8065-4298-9f27-31ee3ad1eb55"> -->
 <!-- <img width="313" align="left" alt="Coding" src="https://github.com/Synchrotek/Synchrotek/assets/77431114/d659b680-33c2-4972-922f-9fbb06aa38c5"> -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=10&pause=1000&color=F7F7F7&vCenter=true&width=435&height=8&lines=+IF+U+CAN+DREAM+IT+<+U+CAN+CODE+IT+/+>;+IF+U+CAN+DREAM+IT+>+U+CAN+DO+IT;+BECAUSE+YOU+NEVER+GIVE+UP+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=10&pause=1000&color=F7F7F7&vCenter=true&width=435&height=8&lines=+IF+U+CAN+DREAM+IT+<+U+CAN+CODE+IT+/+>;+IF+U+CAN+DREAM+IT+>+U+CAN+DO+IT;+BECAUSE+YOU+NEVER+GIVE+UP+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
 
 ###### My programming stats -
 
