@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=10&pause=1000&color=F7F7F7&vCenter=true&width=435&height=8&lines=+IF+U+CAN+DREAM+IT+<+U+CAN+CODE+IT+/+>;+IF+U+CAN+DREAM+IT+>+U+CAN+DO+IT;+BECAUSE+YOU+NEVER+GIVE+UP+[⊐•̀ᴗ•́]⊐)](https://git.io/typing-svg)
 
-<!-- ###### My programming stats - -->
+<!-- ###### My programming stats this week - -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Synchrotek.id&left_color=green&right_color=red) -->
 <!--START_SECTION:waka-->
