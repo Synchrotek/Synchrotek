@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2024 - To: 06 February 2024
+From: 31 January 2024 - To: 07 February 2024
 
-JavaScript   16 hrs 14 mins  ██████████████░░░░░░░░░░░   55.77 %
-TypeScript   7 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   26.55 %
-Bash         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+JavaScript   16 hrs 31 mins  ████████████████░░░░░░░░░   63.36 %
+TypeScript   4 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+Bash         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->  
