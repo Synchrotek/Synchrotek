@@ -77,10 +77,11 @@ C++          39 mins         █░░░░░░░░░░░░░░░░
 
 ***
 
-<img width="100%" align="left" alt="Coding" src="https://github.com/Synchrotek/Ascii-art-generator-py/assets/77431114/1eca3ec2-1c36-42b5-8f70-09a980afb4da"><br>
+<!-- <img width="100%" align="left" alt="Coding" src="https://github.com/Synchrotek/Ascii-art-generator-py/assets/77431114/1eca3ec2-1c36-42b5-8f70-09a980afb4da"><br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+-->
 
 <!------OPTIONAL-----------------------------------------------------------------------------
 
