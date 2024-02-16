@@ -56,7 +56,9 @@ C++          39 mins         █░░░░░░░░░░░░░░░░
 ![Arduino](https://img.shields.io/badge/-Arduino-0B666A?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&hide_title=true&card_width=400&langs_count=8" alt="Most used Languages"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byteastro&show_icons=true&theme=transparent&layout=compact&hide_title=true&card_width=400&langs_count=8" alt="Most used Languages"/> -->
+<!-------------------------------------------------------------------------------------------
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=byteastro&show_icons=true&theme=transparent&layout=compact&hide_title=true&card_width=400&langs_count=8" alt="Most used Languages"/> 
+-->
 
 <!------------------------------------------------------------------------------------------->
 <details open> 
@@ -77,13 +79,11 @@ C++          39 mins         █░░░░░░░░░░░░░░░░
 
 ***
 
-<!-- <img width="100%" align="left" alt="Coding" src="https://github.com/Synchrotek/Ascii-art-generator-py/assets/77431114/1eca3ec2-1c36-42b5-8f70-09a980afb4da"><br>
-
+<!-------------------------------------------------------------------------------------------
+<img width="100%" align="left" alt="Coding" src="https://github.com/Synchrotek/Ascii-art-generator-py/assets/77431114/1eca3ec2-1c36-42b5-8f70-09a980afb4da"><br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 -->
 
 <!------OPTIONAL-----------------------------------------------------------------------------
-
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=highcontras)](https://github.com//github-readme-stats)
 -->
