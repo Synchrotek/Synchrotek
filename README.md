@@ -16,10 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2024 - To: 27 February 2024
+From: 21 February 2024 - To: 28 February 2024
 
-JavaScript   10 hrs 49 mins  █████████████████████░░░░   84.39 %
-Other        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+JavaScript   8 hrs 3 mins    █████████████████████░░░░   82.14 %
+Other        35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
 ```
 
 <!--END_SECTION:waka-->  
