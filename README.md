@@ -16,11 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
-JavaScript   33 mins         ███████████████████████░░   92.86 %
-HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript   33 mins         ████████████████████████░   97.89 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->  
