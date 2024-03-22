@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2024 - To: 20 March 2024
+From: 14 March 2024 - To: 21 March 2024
 
-JavaScript   13 mins         █████████████████████░░░░   84.81 %
-VB.NET       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-HTML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+JavaScript   1 hr 51 mins    ███████████████████████░░   92.62 %
+ASP.NET      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->  
