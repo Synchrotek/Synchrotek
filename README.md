@@ -56,7 +56,6 @@ Bash          3 mins          ░░░░░░░░░░░░░░░░�
 ![Arduino](https://img.shields.io/badge/-Arduino-0B666A?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Synchrotek&show_icons=true&theme=transparent&layout=compact&hide_title=true&card_width=400&langs_count=8" alt="Most used Languages"/>
-
 <!-------------------------------------------------------------------------------------------
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byteastro&show_icons=true&theme=transparent&layout=compact&hide_title=true&card_width=400&langs_count=8" alt="Most used Languages"/> 
 -->
