@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2024 - To: 04 April 2024
+From: 29 March 2024 - To: 05 April 2024
 
-JavaScript    44 hrs 10 mins  ████████████████████████░   94.75 %
-Bash          50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-JSON          25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JavaScript    34 hrs 35 mins  ███████████████████████░░   93.25 %
+Bash          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+JSON          28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->  
