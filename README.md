@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2024 - To: 24 May 2024
+From: 18 May 2024 - To: 25 May 2024
 
-JavaScript    12 hrs 7 mins   █████████████░░░░░░░░░░░░   53.21 %
-TypeScript    5 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.78 %
-Prisma        2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+JavaScript   7 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   40.47 %
+TypeScript   6 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   35.57 %
+Prisma       2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.21 %
 ```
 
 <!--END_SECTION:waka-->  
