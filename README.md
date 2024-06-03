@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2024 - To: 01 June 2024
+From: 26 May 2024 - To: 02 June 2024
 
-JavaScript   3 hrs 59 mins   ██████████████████░░░░░░░   70.30 %
-Python       37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+JavaScript   3 hrs 36 mins   ██████████████████░░░░░░░   73.36 %
+Python       37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
 ```
 
 <!--END_SECTION:waka-->  
