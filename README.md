@@ -61,7 +61,7 @@ EJS          33 mins         █░░░░░░░░░░░░░░░░
 -->
 
 <!------------------------------------------------------------------------------------------->
-<details open> 
+<details close> 
 <br>
     
 ![](https://komarev.com/ghpvc/?username=Synchrotek&color=orange&style=for-the-badge)
