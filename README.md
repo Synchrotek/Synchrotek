@@ -28,7 +28,7 @@ JSON         26 mins         ░░░░░░░░░░░░░░░░░
     
 <!-- #### - 🌱 I’m currently learning **subject here**. -->
 
-- 👋 Hello! I'm an IT student with a passion for code and creativity.
+- 👋 Hello! I'm a beginner with a passion for code and creativity.
 
 - 🌱 Enthusiastic  about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
   
