@@ -30,7 +30,7 @@ JSON         26 mins         ░░░░░░░░░░░░░░░░░
 
 - 👋 Hello! I'm a beginner with a passion for code and creativity.
 
-- 🌱 Enthusiastic  about - *ᴡᴇʙ ᴅᴇᴠ, ᴍʟ, ɪᴏᴛ.*
+- 🌱 Enthusiastic  about - *webdev, backend, scalable architectures.*
   
 - 🚀 Explore all my projects [*Here*](https://github.com/Synchrotek?tab=repositories) and [***here***](https://github.com/ByteAstro?tab=repositories).
   
