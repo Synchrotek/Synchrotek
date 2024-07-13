@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2024 - To: 11 July 2024
+From: 05 July 2024 - To: 12 July 2024
 
-JavaScript   21 hrs 54 mins  ███████████████████████░░   93.06 %
-Python       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Git Config   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+JavaScript   16 hrs 38 mins  ██████████████████████░░░   89.63 %
+Docker       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->  
