@@ -18,9 +18,10 @@
 ```txt
 From: 16 July 2024 - To: 23 July 2024
 
+Total Time: 27 hrs 37 mins
+
 JavaScript   21 hrs 32 mins  ███████████████████░░░░░░   77.53 %
 TypeScript   5 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   18.37 %
-HTML         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->  
