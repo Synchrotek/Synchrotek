@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
-Total Time: 16 hrs 57 mins
+Total Time: 19 hrs 50 mins
 
-JavaScript   11 hrs 13 mins  ███████████████░░░░░░░░░░   61.52 %
-Markdown     2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+JavaScript    13 hrs 28 mins  ████████████████░░░░░░░░░   63.77 %
+Markdown      3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
 ```
 
 <!--END_SECTION:waka-->  
