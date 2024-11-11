@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2024 - To: 09 November 2024
+From: 03 November 2024 - To: 10 November 2024
 
-Total Time: 5 hrs 53 mins
+Total Time: 6 hrs 56 mins
 
-JavaScript   5 hrs 1 min     █████████████████████░░░░   84.66 %
-Git Config   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JavaScript   6 hrs 3 mins    ██████████████████████░░░   86.60 %
+Git Config   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 ```
 
 <!--END_SECTION:waka-->  
